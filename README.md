@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nifestica
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate on Project and connect with like-minds
 - 📫 How to reach me via my mail (ojooluwanifesimi@gmail.com ) 
 
